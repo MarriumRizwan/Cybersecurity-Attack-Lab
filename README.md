@@ -58,7 +58,7 @@ Cybersecurity-Attack-Lab/
 │
 ├── configs/
 │   ├── network-topology.md
-│   └── vm-setup-notes.md
+│   
 │
 └── README.md
 ```
