@@ -206,4 +206,4 @@ and the DVWA web application layer respectively.
 
 ---
 
-*Built for academic purposes only. Do not replicate outside of isolated lab environments.*
+
