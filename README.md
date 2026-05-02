@@ -17,7 +17,7 @@ networks or systems harmed.
 | Host Machine | Windows | 192.168.56.1 | Gateway / Observer |
 
 **Network Type:** VirtualBox Host-Only Network (fully isolated)  
-**No internet bridge — all traffic contained within lab**
+**No internet bridge. All traffic contained within lab**
 
 ---
 
